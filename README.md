@@ -1,5 +1,5 @@
 # Comp208Group52
 
-Please download the file at
+Please download the jar file at
 
-https://www.dropbox.com/s/jjxufobiqy7y5lv/dist.zip?dl=0
+https://www.dropbox.com/scl/fo/lqad3t0iz40ul0tgdqfdv/h?dl=0&rlkey=ivgyctylwlf1rf4qkr08qf49s
